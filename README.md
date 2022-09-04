@@ -61,7 +61,7 @@ Create a **style.css** in your **src** folder and add these 3 lines
 ```
 
 ### Tailwind Config File
-run the following command npx init tailwind -p to generate your **tailwind.config.js** file and add this to it
+run the following command npx  tailwind init -p to generate your **tailwind.config.js** file and add this to it
 ```
 module.exports = {
   content: ['./dist/*.html'],
